@@ -1,0 +1,153 @@
+{
+    "LOGINPAGE":{
+        "LOGINPAGE":"SIRNA HORDOFFII KAROORAA FI GABAASAA (SHKG)",
+        "LOGIN":"Seni",
+        "EMAIL":"Imeelii",
+        "PASSWORD":"Jecha icciitii",
+        "FORGETPASSWORD":"Lakkoofsa Icciitii Keessan dagattanii?",
+        "SIGNIN":"Garaa akkawuntii keessanitti seenaa"
+
+    },
+    "MAIN":{
+        "TITLE" :"SHKG",
+        "PROFILE":{
+            "MYPROFILE":"My Profile",
+            "SETTING":"Setting",
+            "SIGNOUT":"Sign Out"
+        },
+        "CHAT":{
+            "CHAT":"Chats"
+        },
+        "SIDEBAR":{
+            "DASHBOARD":"Dashborad",
+            "UMS":{
+                "UMS":"User Management",
+                "USER":{
+                    "USER":"User",
+                    "TITLE":"List of Users",
+                    "ADDBUTTON":"Add User"
+                },
+                "ADMIN":{
+                    "ADMIN":"Admin",
+                    "TITLE":"List of Admins",
+                    "ADDBUTTON":"Add Admin"
+                }
+            },
+            "ROLE":{
+                "ROLEPERMISSSION":"Role Permission",
+                "ROLE":"Role",
+                "TITLE":"List of Roles",
+                "ADDBUTTON":"Create New Role"
+            },
+            "PLAN":{
+                "PLAN":"Plan",
+                "STRATEGIC_GOAL":{
+                    "STRATEGIC_GOAL":"Strategic Goal",
+                    "TITLE":"Strategic Goal",
+                    "ADDBUTTON":"Add Strategic Goal"
+                },
+                "MAIN_GOAL":{
+                    "MAIN_GOAL":"Main Goal",
+                    "TITLE":"List of Main Goal",
+                    "ADDBUTTON":"Add Main Goal"
+                },
+                "KPI":{
+                    "KPI":"KPI",
+                    "TITLE":"List of KPI Description",
+                    "ADDBUTTON":"Add Kpi"
+                },
+                "GENERATE_PLAN_TABLE":{
+                    "GENERATE_PLAN_TABLE":"Generate Plan Table",
+                    "TITLE":"List of Plan Table",
+                    "ADDBUTTON":""
+                },
+                "GENERATE_FINAL_PLAN":{
+                    "GENERATE_FINAL_PLAN":"Generate final Plan",
+                    "TITLE":"List of final Plan",
+                    "ADDBUTTON":""
+                }  
+            },
+            "REPORT":{
+                "REPORT":"Report",
+                "KPI_DESCRIPTION":{
+                    "KPI_DESCRIPTION":"Kpi Description",
+                    "TITLE":"List of KPI Description",
+                    "ADDBUTTON":"Add KPI Description"
+                },
+                "SUMMARY":{
+                    "SUMMARY":"Summary",
+                    "TITLE":"Summary",
+                    "ADDBUTTON":"Add Summary"
+                },
+                "MEASURE":{
+                    "MEASURE":"Measure",
+                    "TITLE":"Measure",
+                    "ADDBUTTON":"Add Measure"
+                },
+                "GENERATE_REPORT_TABLE":{
+                    "GENERATE_REPORT_TABLE":"Generate report Table",
+                    "TITLE":"List of Report Table",
+                    "ADDBUTTON":""
+                },
+                "GENERATE_FINAL_REPORT":{
+                    "GENERATE_FINAL_REPORT":"Generate final report",
+                    "TITLE":"List of final Report",
+                    "ADDBUTTON":""
+                }
+            },
+            "TRACKING":{
+                "TRACKING":"Tracking",
+                "TEAM":{
+                    "TEAM":"Team",
+                    "TITLE":"",
+                    "ADDBUTTON":""
+                },
+                "CLUSTER":{
+                    "CLUSTER":"Cluster",
+                    "TITLE":"",
+                    "ADDBUTTON":""
+                }
+            },
+            "CLUSTER":{
+                "CLUSTER":"Cluster",
+                "MONITORING":{
+                    "MONITORING":"Monitoring",
+                    "TITLE":"Monitoring",
+                    "ADDBUTTON":"Add Monitoring"
+                },
+                "SECTOR":{
+                    "SECTOR":"Sector",
+                    "TITLE":"",
+                    "ADDBUTTON":"Add Sector"
+                },
+                "DIVISION":{
+                    "DIVISION":"Division",
+                    "TITLE":"Division",
+                    "ADDBUTTON":"Add Division"
+                }      
+            }
+       },
+        "TABLE":{
+                "NO":"No",
+                "NAME":"Name",
+                "EMAIL":"Email",
+                "ROLE":"Role",
+                "STATUS":"Status",
+                "PHONENUMBER":"Phone Number",
+                "TYPE":"Type",
+                "YEAR":"Year",
+                "INITIAL":"Initial",
+                "CLUSTER":"Generate Final Plan",
+                "SEARCH":"Search",
+                "ACTION":"Action",  
+                "PREVIOUS":"Previous",
+                "NEXT":"Next",
+                "WEIGHT":"Weight"
+
+            },
+        "FOOTER":{
+            "DATE":"",
+            "COPYRIGHT":""
+        }
+    }  
+}

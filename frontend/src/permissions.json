@@ -1,0 +1,72 @@
+{
+    "permissions":[
+        "createUser",
+        "editUser",
+        "deleteUser",
+        "viewUser",
+
+        "createAdmin",
+        "editAdmin",
+        "deleteAdmin",
+        "viewAdmin",
+
+        "createRole",
+        "editRole",
+        "deleteRole",
+        "viewRole",
+
+        "createStarategicGoal",
+        "editStarategicGoal",
+        "deleteStarategicGoal",
+        "viewStarategicGoal",
+
+        "createMainGoal",
+        "editMainGoal",
+        "deleteMainGoal",
+        "viewMainGoal",
+
+        "createKpi",
+        "editKpi",
+        "deleteKpi",
+        "viewKpi",
+
+        "generatePlanTable",
+        "generateFinalPlan",
+
+        "createKpiDescription",
+        "editKpiDescription",
+        "deleteKpiDescription",
+        "viewKpiDescription",
+
+        "createSummary",
+        "editSummary",
+        "deleteSummary",
+        "viewSummary",
+
+        "createMeasure",
+        "editMeasure",
+        "deleteMeasure",
+        "viewMeasure",
+
+        "generateReportTable",
+        "generateFinalReport",
+
+        "createMonitoring",
+        "editMonitoring",
+        "deleteMonitoring",
+        "viewMonitoring", 
+
+        "createSector",
+        "editSector",
+        "deleteSector",
+        "viewSector",  
+                
+        "createDivision",
+        "editDivision",
+        "deleteDivision",
+        "viewDivision"
+
+
+    ]
+}
+

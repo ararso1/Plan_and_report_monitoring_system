@@ -1,0 +1,21 @@
+[
+    {
+        "id":1, 
+        "strategicGoalName":"str1", 
+        "mainGoal":
+        [
+            {
+                "id":1, 
+                "mainGoalName":"maingoal1", 
+                "kpi":
+                [
+                    {
+                        "id":1,
+                        "kpiName":"kpi1"
+                    }
+                ]
+
+            }
+        ]
+    }
+]

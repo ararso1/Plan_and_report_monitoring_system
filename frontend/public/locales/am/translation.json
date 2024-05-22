@@ -1,0 +1,183 @@
+{
+    "LOGINPAGE":{
+        "LOGINPAGE":"እቅድ ፣ ሪፖርት ክትትል ስርዓት(እሪክስ)",
+        "LOGIN":"ግባ",
+        "EMAIL":"ኢሜይል",
+        "PASSWORD":"የይለፍ ቃል",
+        "FORGETPASSWORD":"የይለፍ ቃሌን እርሳው?",
+        "SIGNIN":"ወደ መለያዎ ይግቡ"
+
+    },
+    "MAIN":{
+        "TITLE" :"እሪክስ",
+        "PROFILE":{
+            "MYPROFILE":"የግል ማህደሬ",
+            "SETTING":"ቅንብር",
+            "SIGNOUT":"ውጣ"
+        },
+        "CHAT":{
+            "CHAT":"ተወያይ"
+        },
+        "SIDEBAR":{
+            "DASHBOARD":"ዳሽቦርድ",
+            "UMS":{
+                "UMS":"የተጠቃሚ አስተዳደር",
+                "USER":{
+                    "USER":"ተጠቃሚ",
+                    "TITLE":"የተጠቃሚ ዝርዝር",
+                    "ADDBUTTON":"ተጠቃሚ ጨምር"
+                },
+                "ADMIN":{
+                    "ADMIN":"አስተዳዳሪ",
+                    "TITLE":"የአስተዳዳሪዎች ዝርዝር",
+                    "ADDBUTTON":"አስተዳዳሪ ጨምር"
+                }
+            },
+            "ROLE":{
+                "ROLEPERMISSSION":"ሚና ፈቃድ",
+                "ROLE":"ሚና",
+                "TITLE":"ሚናዎች ዝርዝር",
+                "ADDBUTTON":"አዲስ ሚና ፍጠር"
+            },
+            "PLAN":{
+                "PLAN":"ዕቅድ",
+                "STRATEGIC_GOAL":{
+                    "STRATEGIC_GOAL":"ስትራቴጂክ ግብ",
+                    "TITLE":"ስትራቴጂክ ግብ",
+                    "ADDBUTTON":"ስትራቴጂክ ግብ ጨምር"
+                },
+                "MAIN_GOAL":{
+                    "MAIN_GOAL":"ዋና ተግባር",
+                    "TITLE":"ዋና ተግባር",
+                    "ADDBUTTON":"ዋና ተግባር ጨምር"
+                },
+                "KPI":{
+                    "KPI":"ቁልፍ የአፈፃፀም አመልካቾች",
+                    "TITLE":"ቁልፍ የአፈፃፀም አመልካቾች",
+                    "ADDBUTTON":"kpi ጨምር"
+                },
+                "GENERATE_PLAN_TABLE":{
+                    "GENERATE_PLAN_TABLE":"የእቅድ ሠንጠረዥ ይፍጠሩ",
+                    "TITLE":"በጀት ዓመቱ ሂላማዎችና የድርጊት መርሃ ግብር",
+                    "ADDBUTTON":""
+                },
+                "GENERATE_FINAL_PLAN":{
+                    "GENERATE_FINAL_PLAN":"የመጨረሻውን እቅድ ይፍጠሩ",
+                    "TITLE":"የመጨረሻው እቅድ ዝርዝር",
+                    "ADDBUTTON":""
+                }  
+            },
+            "REPORT":{
+                "REPORT":"ሪፖርት",
+                "KPI_DESCRIPTION":{
+                    "KPI_DESCRIPTION":"የ Kpi መግለጫ",
+                    "TITLE":"የ KPI ዝርዝር",
+                    "ADDBUTTON":"የKPI መግለጫ ጨምር"
+                },
+                "SUMMARY":{
+                    "SUMMARY":"ማጠቃለያ",
+                    "TITLE":"ማጠቃለያ",
+                    "ADDBUTTON":"ማጠቃለያ ጨምር"
+                },
+                "MEASURE":{
+                    "MEASURE":"መለኪያ",
+                    "TITLE":"መለኪያ",
+                    "ADDBUTTON":"መለኪያ ጨምር"
+                },
+                "GENERATE_REPORT_TABLE":{
+                    "GENERATE_REPORT_TABLE":"የሪፖርት ሠንጠረዥ መፍጠር",
+                    "TITLE":"በጀት ዓመቱ ሂላማዎችና የድርጊት መርሃ ግብር",
+                    "ADDBUTTON":""
+                },
+                "GENERATE_FINAL_REPORT":{
+                    "GENERATE_FINAL_REPORT":"የመጨረሻውን ሪፖርት ይፍጠሩ",
+                    "TITLE":"የመጨረሻ ሪፖርት ዝርዝር",
+                    "ADDBUTTON":""
+                }
+            },
+            "TRACKING":{
+                "TRACKING":"መከታተል",
+                "TEAM":{
+                    "TEAM":"ቡድን",
+                    "TITLE":"",
+                    "ADDBUTTON":""
+                },
+                "CLUSTER":{
+                    "CLUSTER":"ክላስተር",
+                    "TITLE":"",
+                    "ADDBUTTON":""
+                }
+            },
+            "CLUSTER":{
+                "CLUSTER":"ክላስተር",
+                "MONITORING":{
+                    "MONITORING":"ክትትል",
+                    "TITLE":"ክትትል",
+                    "ADDBUTTON":"ክትትል ጨምር"
+                },
+                "SECTOR":{
+                    "SECTOR":"ዘርፍ",
+                    "TITLE":"",
+                    "ADDBUTTON":"ዘርፍ ጨምር"
+                },
+                "DIVISION":{
+                    "DIVISION":"ክፍል",
+                    "TITLE":"ክፍል",
+                    "ADDBUTTON":"ክፍል ጨምር"
+                }      
+            }
+       },
+        "TABLE":{
+                "NO":"ተ.ቁ",
+                "NAME":"ስም",
+                "EMAIL":"ኢሜይል",
+                "ROLE":"ሚና",
+                "STATUS":"ሁኔታ",
+                "PHONENUMBER":"ስልክ ቁጥር",
+                "TYPE":"ዓይነት",
+                "INITIAL":"መነሻ",
+                "CLUSTER":"የመጨረሻ እቅድ ይፍጠሩ",
+                "SEARCH":"ፍለጋ",
+                "ACTION":"ድርጊት",  
+                "PREVIOUS":"ቀዳሚ",
+                "NEXT":"ቀጥሎ",
+               
+                "USERTYPE":"የተጠቃሚ ዓይነት",
+
+
+                "WEIGHT":"ክብደት",
+                "MEASURE":"መለኪያ",
+
+                "STRATEGIC_GOAL_MAIN_GOAL_AND_KPI":"ስትራቴጂክ ግቦች፣ ዋና ዋና ተግባራት እና ዝርዝር ቁልፍ የአፈፃፀም አመልካቾች",
+                "LAST_YEAR_PERFORMANCE":"የ2ዐ14 አፈጻጸም (መነሻ)",
+                "NEXT_YEAR_GOAL":"የ2015 ግብ (ዓመታዊ)",
+                
+                
+                
+                "FIRST_QUARTER":"1ኛ",
+                "SECOND_QUARTER":"2ኛ",
+                "THIRD_QUARTER":"3ኛ",
+                "FOURTH_QUARTER":"4ኛ",
+
+
+
+                "YEAR":"አመት",
+                "SELECT_YEAR":"ዓመት ይምረጡr",
+                "QUARTER":"ሩብ ዓመት",
+                "SELECT_QUARTER":"ሩብ ዓመት ይምረጡ",
+                "SECTOR":"ዘርፍ",
+                "SELECT_SECTOR":"ዘርፍ ይምረጡ",
+                "DIVISION":"ክፍል",
+                "SELECT_DIVISION":"ክፍል ይምረጡ",
+                "FILTER":"Filter"
+
+                
+
+                
+            },
+        "FOOTER":{
+            "DATE":"",
+            "COPYRIGHT":""
+        }
+    }  
+}
